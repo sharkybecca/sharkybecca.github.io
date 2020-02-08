@@ -1,11 +1,11 @@
 # Site settings
-author: Rebecca Williams
-title: 
+author: Becca Williams
+title: Becca the Tech
 header-img: img/home-bg.png
 email: ichthyologistshark@yahoo.com
-copyright_name: Rebecca Williams
+copyright_name: Becca Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A constant learner's journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sharkybecca
